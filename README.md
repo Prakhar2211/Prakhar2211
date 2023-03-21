@@ -14,5 +14,5 @@ Hi there! I'm Prakhar Bundela,
 - Python: NumPy, Pandas
 - Visualisation: Tableau, Matplotlib
 
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/prakharbundela/)
--->
+- 📫 How to reach me: 
+--> [Linkedin](https://www.linkedin.com/in/prakharbundela/)
