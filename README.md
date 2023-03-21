@@ -1,16 +1,21 @@
-### Hi there 👋
+## Hi there 
+## Introducing Myself 👋
 
-<!--
-**Prakhar2211/Prakhar2211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! I'm Prakhar Bundela, a self-taught data analyst. I have been teaching myself SQL, Python, and Tableau ever since.
 
-Here are some ideas to get you started:
+- 🌱 I’m am a graduate of IIT(ISM), Dhanbad
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+### 💡 My Skills
+- Data preparation, quality assurance, and analysis
+- Database design and modelling
+- Dashboard development and reporting
+- Exploratory data analysis
+
+### 🛠️ My Tools
+- Databases: SQL (MySQL, SQL Server), Excel
+- Python: NumPy, Pandas
+- Visualisation: Tableau, Matplotlib
+
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/prakharbundela/)
 -->
