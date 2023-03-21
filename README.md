@@ -1,10 +1,9 @@
 ## Hi there 
 ## Introducing Myself 👋
 
-Hi there! I'm Prakhar Bundela, a self-taught data analyst. I have been teaching myself SQL, Python, and Tableau ever since.
-
+Hi there! I'm Prakhar Bundela,
 - 🌱 I’m am a graduate of IIT(ISM), Dhanbad
-
+- I'm almost always solving something new in my repos 
 
 ### 💡 My Skills
 - Data preparation, quality assurance, and analysis
